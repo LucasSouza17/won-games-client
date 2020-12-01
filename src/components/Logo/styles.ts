@@ -14,12 +14,12 @@ const wrapperModifiers = {
   `,
   hideOnMobile: () => css`
     ${media.lessThan('medium')`
-        width: 5.8rem
-        height: 4.5rem
+        width: 5.8rem;
+        height: 4.5rem;
 
         svg {
-            height: 4.5rem
-            pointer-events: none
+            height: 4.5rem;
+            pointer-events: none;
         }
 
         .text {
