@@ -4,7 +4,7 @@ import theme from 'styles/theme'
 
 export const parameters = {
   backgrounds: {
-    default: 'won-dark',
+    default: 'won-light',
     values: [
       {
         name: 'won-light',
