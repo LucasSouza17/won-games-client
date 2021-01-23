@@ -3,7 +3,6 @@ import media from 'styled-media-query'
 
 import * as HeadingStyles from 'components/Heading/styles'
 import * as LogoStyles from 'components/Logo/styles'
-import { LogoProps } from 'components/Logo'
 
 export const Wrapper = styled.main`
   display: grid;
