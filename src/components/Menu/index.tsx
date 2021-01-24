@@ -78,7 +78,7 @@ const Menu = ({ username }: MenuProps) => {
             </Link>
             <span>or</span>
             <Link href="/sign-up" prefetch={false} passHref>
-              <S.CreateAccount title="Sign In">Sign Up</S.CreateAccount>
+              <S.CreateAccount title="Sign Up">Sign Up</S.CreateAccount>
             </Link>
           </S.RegisterBox>
         )}
